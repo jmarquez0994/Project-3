@@ -1,1 +1,15 @@
-.external
+/* myStyle.css */
+}
+h1 {
+	font-family: "Helvetica"
+	font-style: bold;
+	font-size: 25;
+}
+h3 {
+ font-family: "Helvetica";
+ font-style: bold;
+
+}
+p {
+font: italic;
+}
