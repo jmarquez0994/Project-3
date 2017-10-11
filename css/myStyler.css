@@ -3,13 +3,17 @@
 h1 {
 	font-family: "Helvetica"
 	font-style: bold;
-	font-size: 25;
+	color: #0061ff;
+	font-size: 30em
 }
 h3 {
  font-family: "Helvetica";
  font-style: bold;
+ color: #0061ff;
+ font-size: 15px
 
 }
 p {
-font: italic;
+font-family: "Calibri";
+
 }
